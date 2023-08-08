@@ -1,1 +1,1 @@
-A Spring CICD journey with Jenkins and Azure yskjenkins
+ A Spring CICD journey with Jenkins and Azure yskjenkins
